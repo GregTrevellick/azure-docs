@@ -1,4 +1,4 @@
-# validate = https://pull.git.ci/check/${gregtrevellick}/${azure-docs}
+# validate = https://pull.git.ci/check/gregtrevellick/azure-docs
 version: "1"
 rules:                      # Array of rules
   - base: master            # Required. Target branch
